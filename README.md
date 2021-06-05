@@ -1,6 +1,6 @@
 # Hi :grinning:
 
-I'm Thien :v
+I'm Thien
 
 :mortar_board: First-year student at University of Information Technology, Viet Nam (major: Computer Science).
 
